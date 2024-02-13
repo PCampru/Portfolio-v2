@@ -12,7 +12,7 @@ export const Hero = () => {
                     Reach out if you'd like to learn more!
                 </p>
                 <div className={styles.socialContainer}>
-                    <a href="assets/resume/RPCP.pdf" className={styles.contactBtn}>Download CV</a>
+                    <a href="assets/resume/resumePolCamprubi.pdf" className={styles.contactBtn}>Download CV</a>
                     <a href="mailTo:polcampru@gmail.com" className={styles.contactBtn}>Contact Me</a>
                 </div>
             </div>
