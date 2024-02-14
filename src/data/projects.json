@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Document management system",
+      "imageSrc": "projects/prop.png",
+      "description": "This project is a university assignment graded with honors to learn the MVC model and the algorithm TF-IDF.",
+      "skills": ["Java"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/polmane/PROP-FIB"
+    }
+]

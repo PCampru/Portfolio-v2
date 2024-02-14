@@ -8,7 +8,8 @@ export const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Pol</h1>
                 <p className={styles.description}>
-                    Full-stack Junior Developer with experience using Java, HTML and CSS. 
+                    Full-stack Junior Developer. Transforming Ideas into Innovative Solutions. 
+                    <br />
                     Reach out if you'd like to learn more!
                 </p>
                 <div className={styles.socialContainer}>
